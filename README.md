@@ -1,6 +1,7 @@
 # TFG-Drone-delivery - Enrique Villa Coronado
 
-Aquí te dejo varias cositas que he usado para hacer mi TFG
+Aquí te dejo varias cositas que he usado para hacer mi TFG sobre el envío de comida y paquetes con drones. Si quieres hacer algo similar porque
+te mole el tema, puedes usar lo que necesites de aquí si es que te sirve.
 
 #### HOJAS EXCEL ####
 
